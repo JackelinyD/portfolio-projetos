@@ -1,68 +1,34 @@
-# portfolio-projetos
-
 # Portfólio de Projetos – Jackeliny Dias
 
-Profissional com experiência em projetos de transformação organizacional, gestão de processos e desenvolvimento de práticas de gestão orientadas à estratégia e aos resultados.
+Profissional com experiência em transformação organizacional, gestão de processos e implantação de iniciativas estratégicas voltadas à melhoria da gestão e da performance organizacional.
 
-Este repositório apresenta alguns dos principais projetos organizacionais conduzidos ao longo da minha trajetória profissional, com foco na implantação de estruturas de gestão que conectam estratégia, pessoas e processos.
+Este repositório apresenta projetos organizacionais conduzidos ao longo da minha trajetória profissional em empresas de médio porte, especialmente nas áreas de cultura organizacional, indicadores de desempenho, programas de incentivo e desenvolvimento de lideranças.
 
----
-
-## Projetos
-
-### Implantação de Cultura Organizacional
-Projeto voltado à definição e implementação de valores organizacionais, rituais de gestão e alinhamento cultural entre liderança e equipes.
-
-### Implantação de Indicadores Organizacionais
-Estruturação de indicadores de desempenho individuais e organizacionais para apoiar a tomada de decisão e o acompanhamento de resultados.
-
-### Implantação de Programa de Participação nos Lucros e Resultados (PLR)
-Desenvolvimento e implementação de programa de incentivo baseado em metas estratégicas e indicadores organizacionais.
-
-### Estruturação de Processos de Gestão de Pessoas
-Projeto de organização e padronização de processos de gestão de pessoas em empresa em fase de estruturação e crescimento.
-
-### Implantação de Avaliação de Desempenho
-Criação de modelo estruturado de avaliação de desempenho com foco no desenvolvimento de competências e gestão de resultados.
-
-### Implantação de Comunicação Interna e Intranet
-Desenvolvimento de novo modelo de comunicação interna com implantação de plataforma digital e melhoria do fluxo de informações organizacionais.
-
-### Desenvolvimento de Lideranças
-Projeto de desenvolvimento de líderes por meio de trilhas de aprendizagem e acompanhamento de planos de desenvolvimento individual.
+Os projetos apresentados demonstram a aplicação prática de princípios de gestão de projetos, melhoria de processos e gestão da mudança em contextos organizacionais.
 
 ---
 
-## Competências
+# Projetos
 
-Gestão de Projetos  
-Gestão de Processos  
-Transformação Organizacional  
-Gestão de Indicadores  
-Governança Organizacional  
-Gestão de Stakeholders  
-Metodologias Ágeis  
+## Implantação de Cultura Organizacional
 
----
+Projeto voltado à definição e implementação de valores organizacionais e rituais de gestão para fortalecer o alinhamento cultural da empresa.
 
-## Formação
+Principais entregas:
 
-MBA em Gestão de Projetos e Processos – IPOG (em andamento)
-
-Mestrado em Gestão Organizacional – Universidade Federal de Goiás
-
-MBA em Gestão Organizacional e Liderança – IPOG
-
-Pós-graduação em Gestão de Pessoas por Competências
-
-Graduação em Psicologia – Universidade Federal de Goiás
+- definição de valores organizacionais
+- construção de rituais de cultura
+- alinhamento de lideranças
+- comunicação interna da cultura
 
 ---
 
-## Contato
+## Implantação de Indicadores Organizacionais
 
-LinkedIn  
-https://www.linkedin.com/in/jackelinydias
+Projeto de estruturação de indicadores de desempenho individuais e organizacionais para apoiar a tomada de decisão e o acompanhamento estratégico da empresa.
 
-Site  
-https://www.jackelinydias.com.br
+Principais entregas:
+
+- definição de KPIs organizacionais
+- criação de rotinas de acompanhamento
+- suporte à liderança na análise de resultados
