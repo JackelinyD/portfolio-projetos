@@ -1,3 +1,16 @@
+# Portfólio de Projetos
+## Jackeliny Dias
+
+Especialista em transformação organizacional, gestão de processos e implantação de práticas de gestão orientadas à estratégia e aos resultados.
+
+Este portfólio reúne projetos organizacionais conduzidos ao longo da minha trajetória profissional, especialmente nas áreas de cultura organizacional, indicadores de desempenho, programas de incentivo e desenvolvimento de lideranças.
+
+📍 Goiânia – Brasil  
+🔗 LinkedIn: https://www.linkedin.com/in/jackelinydias  
+🌐 Site: https://www.jackelinydias.com.br
+
+
+---
 ## 📌 Projetos
 
 ### 🧭 Implantação de Cultura Organizacional
