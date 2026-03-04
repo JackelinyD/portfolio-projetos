@@ -1,34 +1,22 @@
-# Portfólio de Projetos – Jackeliny Dias
+## 📌 Projetos
 
-Profissional com experiência em transformação organizacional, gestão de processos e implantação de iniciativas estratégicas voltadas à melhoria da gestão e da performance organizacional.
+### 🧭 Implantação de Cultura Organizacional
+Projeto voltado à definição e implementação de valores organizacionais, rituais de gestão e alinhamento cultural entre liderança e equipes.
 
-Este repositório apresenta projetos organizacionais conduzidos ao longo da minha trajetória profissional em empresas de médio porte, especialmente nas áreas de cultura organizacional, indicadores de desempenho, programas de incentivo e desenvolvimento de lideranças.
+### 📊 Implantação de Indicadores Organizacionais
+Estruturação de indicadores de desempenho individuais e organizacionais para apoiar a tomada de decisão e o acompanhamento de resultados.
 
-Os projetos apresentados demonstram a aplicação prática de princípios de gestão de projetos, melhoria de processos e gestão da mudança em contextos organizacionais.
+### 💰 Implantação de Programa de Participação nos Lucros (PLR)
+Desenvolvimento e implementação de programa de incentivo baseado em metas estratégicas e indicadores organizacionais.
 
----
+### ⚙️ Estruturação de Processos de Gestão de Pessoas
+Projeto de organização e padronização de processos de gestão de pessoas em empresa em fase de crescimento.
 
-# Projetos
+### 📈 Implantação de Avaliação de Desempenho
+Criação de modelo estruturado de avaliação de desempenho com foco no desenvolvimento de competências e gestão de resultados.
 
-## Implantação de Cultura Organizacional
+### 🧩 Implantação de Comunicação Interna e Intranet
+Desenvolvimento de novo modelo de comunicação interna e centralização de informações organizacionais.
 
-Projeto voltado à definição e implementação de valores organizacionais e rituais de gestão para fortalecer o alinhamento cultural da empresa.
-
-Principais entregas:
-
-- definição de valores organizacionais
-- construção de rituais de cultura
-- alinhamento de lideranças
-- comunicação interna da cultura
-
----
-
-## Implantação de Indicadores Organizacionais
-
-Projeto de estruturação de indicadores de desempenho individuais e organizacionais para apoiar a tomada de decisão e o acompanhamento estratégico da empresa.
-
-Principais entregas:
-
-- definição de KPIs organizacionais
-- criação de rotinas de acompanhamento
-- suporte à liderança na análise de resultados
+### 👥 Desenvolvimento de Lideranças
+Projeto de desenvolvimento de líderes por meio de trilhas de aprendizagem e acompanhamento de planos de desenvolvimento individual.
