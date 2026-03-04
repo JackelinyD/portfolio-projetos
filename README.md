@@ -33,3 +33,29 @@ Desenvolvimento de novo modelo de comunicação interna e centralização de inf
 
 ### 👥 Desenvolvimento de Lideranças
 Projeto de desenvolvimento de líderes por meio de trilhas de aprendizagem e acompanhamento de planos de desenvolvimento individual.
+
+---
+
+## Competências
+
+- Gestão de Projetos
+- Gestão de Processos
+- Transformação Organizacional
+- Gestão de Indicadores
+- Governança Organizacional
+- Gestão de Stakeholders
+- Metodologias Ágeis
+
+- ---
+
+## Formação
+
+MBA em Gestão de Projetos e Processos – IPOG (em andamento)
+
+Mestrado em Gestão Organizacional – Universidade Federal de Goiás
+
+MBA em Gestão Organizacional e Liderança – IPOG
+
+Pós-graduação em Gestão de Pessoas por Competências
+
+Graduação em Psicologia – Universidade Federal de Goiás
